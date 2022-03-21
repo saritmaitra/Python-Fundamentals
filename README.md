@@ -58,18 +58,23 @@
 - Matplotlib for creating static, animated, and interactive visualizations in Python
     
     -> importing matplotlib module 
+    
     from matplotlib import pyplot as plt
   
     -> x-axis values
+    
     x = [5, 2, 9, 4, 7]
   
     -> y-axis values
+    
     y = [10, 5, 8, 4, 2]
   
     -> bar plot
+    
     plt.bar(x,y)
   
     -> show the plot
+    
     plt.show()
     
     
