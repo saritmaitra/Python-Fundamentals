@@ -24,7 +24,7 @@
 - It is an open source project and we can use it freely. 
 - NumPy is written in C and so has a faster computational speed. 
 
-### DIFF PANDAS & NUMPY:
+### DIFF. PANDAS & NUMPY:
 - When we have to work on Tabular data, we prefer the pandas module and when we have to work on Numerical data, we prefer the numpy module. 
 - The powerful tools of pandas are Data frame and Series whereas the powerful tool of numpy is Arrays. 
 - Pandas consume more memory. Numpy is memory efficient. 
@@ -57,19 +57,19 @@
 ### FEATURES:
 - Matplotlib for creating static, animated, and interactive visualizations in Python
     
-    # importing matplotlib module 
+    -> importing matplotlib module 
     from matplotlib import pyplot as plt
   
-    # x-axis values
+    -> x-axis values
     x = [5, 2, 9, 4, 7]
   
-    # Y-axis values
+    -> y-axis values
     y = [10, 5, 8, 4, 2]
   
-    # bar plot
+    -> bar plot
     plt.bar(x,y)
   
-    # show the plot
+    -> show the plot
     plt.show()
     
     
