@@ -2,7 +2,7 @@
 ## Pandas
     pip install pandas 
     import pandas as pd
-###FEATURES:
+### FEATURES:
 - Pandas were initially developed by Wes McKinney in 2008; Chang She, joined as the second major contributor to the library in 2012
 - Fast and efficient for manipulating and analysing data.
 - Data from different file objects can be loaded.
