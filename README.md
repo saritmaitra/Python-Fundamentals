@@ -60,9 +60,11 @@
     from matplotlib import pyplot as plt # importing matplotlib module 
   
     x = [5, 2, 9, 4, 7] # x-axis values
+    
     y = [10, 5, 8, 4, 2] # y-axis values
   
     plt.bar(x,y) # bar plot
+    
     plt.show() # show plot
     
     
