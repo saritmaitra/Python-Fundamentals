@@ -113,4 +113,11 @@ Mean squared error:
 
 ![](images/MSE.PNG)
 
+## Linear regression analysis has five key assumptions. 
+- We are investigating a linear relationship
+- All variables follow a normal distribution
+- There is very little or no multicollinearity
+- There is little or no autocorrelation
+- Data is homoscedastic
+
 
