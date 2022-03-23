@@ -68,3 +68,11 @@
     plt.show() # show plot
     
     
+## Machine learning
+### Linear Regression in Python with Scikit-Learn
+
+
+
+
+    
+    
