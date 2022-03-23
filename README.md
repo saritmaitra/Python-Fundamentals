@@ -71,7 +71,7 @@
 ## Machine learning
 ### Linear Regression in Python with Scikit-Learn
 
-
+![](images/ML types.png)
 
 
     
