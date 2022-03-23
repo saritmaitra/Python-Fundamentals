@@ -73,6 +73,20 @@
 
 ![](images/ML_types.PNG)
 
+- Regression predicts continuous value outputs while the latter predicts discrete outputs. 
+- Classification predicts in terms of Yes/No or +1/-1
+
+Here we will briefly study what linear regression is and how it can be implemented using the Python Scikit-Learn library.
+
+## Linear Regression Theory
+The term "linearity" in algebra refers to a linear relationship between two or more variables. If we draw this relationship in a two dimensional space (between two variables, in this case), we get a straight line.
+
+Let's consider a use case:- 
+- we want to determine the linear relationship between the numbers of hours a student studies and the % of marks that student scores in an exam. 
+- we want to find out that given the number of hours a student prepares for a test, about how high of a score can the student achieve? 
+
+If we plot the independent variable (hours) on the x-axis and dependent variable (percentage) on the y-axis, linear regression gives us a straight line that best fits the data points, as shown in the figure below.
+
 
     
     
