@@ -103,7 +103,7 @@ y = b0 + m1b1 + m2b2 + m3b3 + ... ... mnbn
 
 This is the equation of a hyper plane. Remember, a linear regression model in two dimensions is a straight line; in three dimensions it is a plane, and in more than three dimensions, a hyper plane.
     
-## Metrics
+## Accuracy Metrics
 
 Mean absoulte error: 
 
