@@ -105,5 +105,6 @@ This is the equation of a hyper plane. Remember, a linear regression model in tw
     
 ## Metrics
 
-Mean absoulte error:
+Mean absoulte error: 
+![](images/MAE.PNG)
 
