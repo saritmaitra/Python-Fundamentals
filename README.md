@@ -89,6 +89,18 @@ If we plot the independent variable (hours) on the x-axis and dependent variable
 
 ![](images/LinReg_example.PNG)
 
+Equation of a stright line is y = mx + b
+- b is the intercept and m is the slope of the line. 
+- linear regression algorithm gives us the most optimal value for the intercept and the slope (in two dimensions). 
+- y and x variables remain the same, since they are the data features and cannot be changed. 
+- The values that we can control are the intercept and slope. There can be multiple straight lines depending upon the values of intercept and slope. 
 
+So, what the linear regression algorithm does is it fits multiple lines on the data points and returns the line that results in the least error.
+
+This same concept can be extended to the cases where there are more than two variables. This is called multiple linear regression. For instance, consider a scenario where you have to predict the price of house based upon its area, number of bedrooms, average income of the people in the area, the age of the house, and so on. In this case the dependent variable is dependent upon several independent variables. A regression model involving multiple variables can be represented as:
+
+y = b0 + m1b1 + m2b2 + m3b3 + ... ... mnbn
+
+This is the equation of a hyper plane. Remember, a linear regression model in two dimensions is a straight line; in three dimensions it is a plane, and in more than three dimensions, a hyper plane.
     
     
