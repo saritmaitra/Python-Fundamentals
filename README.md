@@ -87,6 +87,8 @@ Let's consider a use case:-
 
 If we plot the independent variable (hours) on the x-axis and dependent variable (percentage) on the y-axis, linear regression gives us a straight line that best fits the data points, as shown in the figure below.
 
+![](images/LinReg_example.PNG)
+
 
     
     
