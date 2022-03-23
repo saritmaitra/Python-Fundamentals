@@ -109,3 +109,8 @@ Mean absoulte error:
 
 ![](images/MAE.PNG)
 
+Mean squared error:
+
+![](images/MSE.PNG)
+
+
