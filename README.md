@@ -1,4 +1,5 @@
 # Python-Fundamentals
+https://www.python.org/doc/essays/blurb/
 ## Pandas
     pip install pandas 
     import pandas as pd
